@@ -30,7 +30,7 @@ review/refreshers, and, in my opinion, aren't great subsitutes for lectures.
 
 Any questions, reach out at:
 
-'''
+```
 def get_email()
     first = "arjun"
     last = "sohur"
@@ -39,4 +39,4 @@ def get_email()
     email = first + last + tag.
 
     return email
-'''
+```
